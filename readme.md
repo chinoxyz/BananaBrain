@@ -32,8 +32,6 @@ Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Ban
 
 ## How to reproduce the results?
 
-Run Navigation.ipynb
+The Environment was solved in 439 episodes! For more information about the result check the report.md.
 
-The Environment solved in 439 episodes!
-
-For more information about the result check the report.md
+To reproduce the results run Navigation.ipynb with jupyter lab.
