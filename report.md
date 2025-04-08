@@ -19,14 +19,18 @@ We used the standard parameters from the DeepQ exercise in Udacity:
 
 ## Plot of rewards
 
-The Environment was solved in 439 episodes!
+The Environment was solved in 439 episodes as shown in the following plot of rewards:
 
 ![img.png](img.png)
 
 After training checkpoint.pth contains the parameter of the network.
 
-## Ideas for the future
+Based on the exercise description, the baseline DQN solved this problem in around 1800 episodes. 
+With that being said, the proposed approach outperformed the baseline thanks to the Layer Normalization, Double and Dueling techniques.
 
+
+## Ideas for the future
+* Compare evaluation of different parameters with and without Double and Dueling Q Network and post the results.
 * Implement Prioritized Experience Replay
 * Try TD3 https://spinningup.openai.com/en/latest/algorithms/td3.html#id1
 * Try Cross Network https://arxiv.org/abs/2407.13349 which has proven to be more efficient at training more complicated functions with less parameters compared to regular DNN.

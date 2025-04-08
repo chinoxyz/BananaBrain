@@ -2,3 +2,5 @@ Banana_Windows_x86_64
 .ipynb_checkpoints
 Navigation_Pixels.ipynbgit
 unity-environment.log
+__pycache__/
+

@@ -4,7 +4,7 @@
 # Solving Banana Brain environment with Deep Reinforcement Learning
 The instructions of the problem are described in https://github.com/udacity/Value-based-methods#dependencies
 
-The goal is to solve the problem in less than 1800 episodes. 
+The goal of the Project is to solve the problem with less than 1800 episodes. 
 
 ## Environment Description
 
